@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Secrets, credentials & session state
+.env
+.env.*
+auth.json
+
+# IDE / Editor artifacts
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Multi-gigabyte raw dataset files (exceeds GitHub 100MB file limit)
+playwright_bot/Additional_CSV_Datasets/companies-2023-q4-sm.csv
+playwright_bot/Additional_CSV_Datasets/free_company_dataset.csv
+Additional_CSV_Datasets/companies-2023-q4-sm.csv
+Additional_CSV_Datasets/free_company_dataset.csv
+*.csv.gz
+*.tar.gz
+*.zip
+
+# Playwright artifacts
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/

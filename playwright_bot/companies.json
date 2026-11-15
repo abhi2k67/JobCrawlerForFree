@@ -1,0 +1,1528 @@
+[
+  {
+    "name": "Medtronic",
+    "ats": "workday",
+    "tenant": "medtronic",
+    "site": "MedtronicCareers",
+    "domain": "wd1",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "Stryker",
+    "ats": "workday",
+    "tenant": "stryker",
+    "site": "StrykerCareers",
+    "domain": "wd1",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "Philips",
+    "ats": "workday",
+    "tenant": "philips",
+    "site": "External",
+    "domain": "wd3",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "Abbott",
+    "ats": "workday",
+    "tenant": "abbott",
+    "site": "abbottcareers",
+    "domain": "wd5",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "Boston Scientific",
+    "ats": "workday",
+    "tenant": "bostonscientific",
+    "site": "bsc",
+    "domain": "wd1",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "Baxter",
+    "ats": "workday",
+    "tenant": "baxter",
+    "site": "Careers",
+    "domain": "wd1",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "Siemens Healthineers",
+    "ats": "workday",
+    "tenant": "siemenshealthineers",
+    "site": "shscareers",
+    "domain": "wd3",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "GE HealthCare",
+    "ats": "workday",
+    "tenant": "gehealthcare",
+    "site": "GEHealthCareCareers",
+    "domain": "wd5",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "Becton Dickinson (BD)",
+    "ats": "workday",
+    "tenant": "bd",
+    "site": "External",
+    "domain": "wd1",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "Zimmer Biomet",
+    "ats": "workday",
+    "tenant": "zimmerbiomet",
+    "site": "Zimmer_Biomet_Careers",
+    "domain": "wd1",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "Alcon",
+    "ats": "workday",
+    "tenant": "alcon",
+    "site": "careers",
+    "domain": "wd5",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "Intuitive Surgical",
+    "ats": "workday",
+    "tenant": "intuitive",
+    "site": "Careers",
+    "domain": "wd1",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "Edwards Lifesciences",
+    "ats": "workday",
+    "tenant": "edwards",
+    "site": "EdwardsLifesciences",
+    "domain": "wd1",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "ResMed",
+    "ats": "workday",
+    "tenant": "resmed",
+    "site": "Careers",
+    "domain": "wd3",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "Smith & Nephew",
+    "ats": "workday",
+    "tenant": "smithnephew",
+    "site": "External",
+    "domain": "wd3",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "Terumo",
+    "ats": "workday",
+    "tenant": "terumobct",
+    "site": "external",
+    "domain": "wd1",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "ZF Group",
+    "ats": "workday",
+    "tenant": "zf",
+    "site": "ZFCareers",
+    "domain": "wd3",
+    "category": "Automotive Tier 1"
+  },
+  {
+    "name": "Continental",
+    "ats": "workday",
+    "tenant": "continental",
+    "site": "careers",
+    "domain": "wd3",
+    "category": "Automotive Tier 1"
+  },
+  {
+    "name": "Valeo",
+    "ats": "workday",
+    "tenant": "valeo",
+    "site": "Careers",
+    "domain": "wd3",
+    "category": "Automotive Tier 1"
+  },
+  {
+    "name": "Magna International",
+    "ats": "workday",
+    "tenant": "magna",
+    "site": "Careers",
+    "domain": "wd3",
+    "category": "Automotive Tier 1"
+  },
+  {
+    "name": "Aptiv",
+    "ats": "workday",
+    "tenant": "aptiv",
+    "site": "Careers",
+    "domain": "wd5",
+    "category": "Automotive Tier 1"
+  },
+  {
+    "name": "Forvia (Faurecia)",
+    "ats": "workday",
+    "tenant": "faurecia",
+    "site": "FaureciaCareers",
+    "domain": "wd3",
+    "category": "Automotive Tier 1"
+  },
+  {
+    "name": "Lear Corporation",
+    "ats": "workday",
+    "tenant": "lear",
+    "site": "lear_careers",
+    "domain": "wd5",
+    "category": "Automotive Tier 1"
+  },
+  {
+    "name": "Vitesco Technologies",
+    "ats": "workday",
+    "tenant": "vitesco",
+    "site": "careers",
+    "domain": "wd3",
+    "category": "Automotive Tier 1"
+  },
+  {
+    "name": "Autoliv",
+    "ats": "workday",
+    "tenant": "autoliv",
+    "site": "Autoliv_Careers",
+    "domain": "wd3",
+    "category": "Automotive Tier 1"
+  },
+  {
+    "name": "BorgWarner",
+    "ats": "workday",
+    "tenant": "borgwarner",
+    "site": "BorgWarner_Careers",
+    "domain": "wd1",
+    "category": "Automotive Tier 1"
+  },
+  {
+    "name": "Tenneco",
+    "ats": "workday",
+    "tenant": "tenneco",
+    "site": "Careers",
+    "domain": "wd1",
+    "category": "Automotive Tier 1"
+  },
+  {
+    "name": "Marelli",
+    "ats": "workday",
+    "tenant": "marelli",
+    "site": "Careers",
+    "domain": "wd3",
+    "category": "Automotive Tier 1"
+  },
+  {
+    "name": "Hella",
+    "ats": "workday",
+    "tenant": "hella",
+    "site": "Careers",
+    "domain": "wd3",
+    "category": "Automotive Tier 1"
+  },
+  {
+    "name": "General Motors",
+    "ats": "workday",
+    "tenant": "gm",
+    "site": "GM_Careers",
+    "domain": "wd5",
+    "category": "Automotive OEM"
+  },
+  {
+    "name": "Ford Motor Company",
+    "ats": "workday",
+    "tenant": "ford",
+    "site": "FordCareers",
+    "domain": "wd1",
+    "category": "Automotive OEM"
+  },
+  {
+    "name": "Stellantis",
+    "ats": "workday",
+    "tenant": "stellantis",
+    "site": "Stellantis_Careers",
+    "domain": "wd3",
+    "category": "Automotive OEM"
+  },
+  {
+    "name": "Volvo Group",
+    "ats": "workday",
+    "tenant": "volvo",
+    "site": "Volvo_Group_Careers",
+    "domain": "wd3",
+    "category": "Automotive OEM"
+  },
+  {
+    "name": "PACCAR (DAF/Kenworth)",
+    "ats": "workday",
+    "tenant": "paccar",
+    "site": "PACCAR_Careers",
+    "domain": "wd1",
+    "category": "Automotive OEM"
+  },
+  {
+    "name": "Navistar",
+    "ats": "workday",
+    "tenant": "navistar",
+    "site": "Careers",
+    "domain": "wd1",
+    "category": "Automotive OEM"
+  },
+  {
+    "name": "Harley-Davidson",
+    "ats": "workday",
+    "tenant": "harley",
+    "site": "HD_Careers",
+    "domain": "wd1",
+    "category": "Automotive OEM"
+  },
+  {
+    "name": "Collins Aerospace (RTX)",
+    "ats": "workday",
+    "tenant": "rtx",
+    "site": "RTX",
+    "domain": "wd5",
+    "category": "Aerospace & Defense"
+  },
+  {
+    "name": "General Electric (GE Aerospace)",
+    "ats": "workday",
+    "tenant": "ge",
+    "site": "GECareers",
+    "domain": "wd5",
+    "category": "Aerospace & Defense"
+  },
+  {
+    "name": "Honeywell",
+    "ats": "workday",
+    "tenant": "honeywell",
+    "site": "HoneywellCareers",
+    "domain": "wd3",
+    "category": "Aerospace & Defense"
+  },
+  {
+    "name": "Lockheed Martin",
+    "ats": "workday",
+    "tenant": "lockheedmartin",
+    "site": "LM_Careers",
+    "domain": "wd5",
+    "category": "Aerospace & Defense"
+  },
+  {
+    "name": "Northrop Grumman",
+    "ats": "workday",
+    "tenant": "northropgrumman",
+    "site": "NG_Careers",
+    "domain": "wd1",
+    "category": "Aerospace & Defense"
+  },
+  {
+    "name": "General Dynamics",
+    "ats": "workday",
+    "tenant": "generaldynamics",
+    "site": "GD_Careers",
+    "domain": "wd5",
+    "category": "Aerospace & Defense"
+  },
+  {
+    "name": "L3Harris Technologies",
+    "ats": "workday",
+    "tenant": "l3harris",
+    "site": "L3Harris_Careers",
+    "domain": "wd1",
+    "category": "Aerospace & Defense"
+  },
+  {
+    "name": "Textron",
+    "ats": "workday",
+    "tenant": "textron",
+    "site": "Textron_Careers",
+    "domain": "wd1",
+    "category": "Aerospace & Defense"
+  },
+  {
+    "name": "Safran",
+    "ats": "workday",
+    "tenant": "safran",
+    "site": "Safran_Careers",
+    "domain": "wd3",
+    "category": "Aerospace & Defense"
+  },
+  {
+    "name": "Thales",
+    "ats": "workday",
+    "tenant": "thales",
+    "site": "Thales_Careers",
+    "domain": "wd3",
+    "category": "Aerospace & Defense"
+  },
+  {
+    "name": "BAE Systems",
+    "ats": "workday",
+    "tenant": "baesystems",
+    "site": "BAE_Careers",
+    "domain": "wd3",
+    "category": "Aerospace & Defense"
+  },
+  {
+    "name": "Moog Inc.",
+    "ats": "workday",
+    "tenant": "moog",
+    "site": "Moog_Careers",
+    "domain": "wd1",
+    "category": "Aerospace & Defense"
+  },
+  {
+    "name": "Curtiss-Wright",
+    "ats": "workday",
+    "tenant": "curtisswright",
+    "site": "Careers",
+    "domain": "wd1",
+    "category": "Aerospace & Defense"
+  },
+  {
+    "name": "Siemens",
+    "ats": "workday",
+    "tenant": "siemens",
+    "site": "Siemens_Careers",
+    "domain": "wd3",
+    "category": "Industrial & Tech"
+  },
+  {
+    "name": "Schneider Electric",
+    "ats": "workday",
+    "tenant": "schneiderelectric",
+    "site": "SchneiderElectricCareers",
+    "domain": "wd3",
+    "category": "Industrial & Tech"
+  },
+  {
+    "name": "ABB",
+    "ats": "workday",
+    "tenant": "abb",
+    "site": "ABB_Careers",
+    "domain": "wd3",
+    "category": "Industrial & Tech"
+  },
+  {
+    "name": "Rockwell Automation",
+    "ats": "workday",
+    "tenant": "rockwellautomation",
+    "site": "Rockwell_Automation_Careers",
+    "domain": "wd1",
+    "category": "Industrial & Tech"
+  },
+  {
+    "name": "Eaton",
+    "ats": "workday",
+    "tenant": "eaton",
+    "site": "Eaton_Careers",
+    "domain": "wd1",
+    "category": "Industrial & Tech"
+  },
+  {
+    "name": "Emerson",
+    "ats": "workday",
+    "tenant": "emerson",
+    "site": "Emerson_Careers",
+    "domain": "wd5",
+    "category": "Industrial & Tech"
+  },
+  {
+    "name": "Danfoss",
+    "ats": "workday",
+    "tenant": "danfoss",
+    "site": "Danfoss_Careers",
+    "domain": "wd3",
+    "category": "Industrial & Tech"
+  },
+  {
+    "name": "Caterpillar",
+    "ats": "workday",
+    "tenant": "caterpillar",
+    "site": "Caterpillar_Careers",
+    "domain": "wd1",
+    "category": "Industrial & Tech"
+  },
+  {
+    "name": "John Deere",
+    "ats": "workday",
+    "tenant": "deere",
+    "site": "JohnDeereCareers",
+    "domain": "wd1",
+    "category": "Industrial & Tech"
+  },
+  {
+    "name": "Cummins",
+    "ats": "workday",
+    "tenant": "cummins",
+    "site": "Cummins_Careers",
+    "domain": "wd1",
+    "category": "Industrial & Tech"
+  },
+  {
+    "name": "Thermo Fisher Scientific",
+    "ats": "workday",
+    "tenant": "thermofisher",
+    "site": "ThermoFisher_Careers",
+    "domain": "wd1",
+    "category": "Industrial & Tech"
+  },
+  {
+    "name": "Danaher Corporation",
+    "ats": "workday",
+    "tenant": "danaher",
+    "site": "Danaher_Careers",
+    "domain": "wd1",
+    "category": "Industrial & Tech"
+  },
+  {
+    "name": "Agilent Technologies",
+    "ats": "workday",
+    "tenant": "agilent",
+    "site": "Agilent_Careers",
+    "domain": "wd1",
+    "category": "Industrial & Tech"
+  },
+  {
+    "name": "Capgemini",
+    "ats": "workday",
+    "tenant": "capgemini",
+    "site": "Capgemini_Careers",
+    "domain": "wd3",
+    "category": "Tech & Engineering Consulting"
+  },
+  {
+    "name": "Cognizant",
+    "ats": "workday",
+    "tenant": "cognizant",
+    "site": "Cognizant_Careers",
+    "domain": "wd3",
+    "category": "Tech & Engineering Consulting"
+  },
+  {
+    "name": "DXC Technology",
+    "ats": "workday",
+    "tenant": "dxc",
+    "site": "DXC_Careers",
+    "domain": "wd1",
+    "category": "Tech & Engineering Consulting"
+  },
+  {
+    "name": "CGI",
+    "ats": "workday",
+    "tenant": "cgi",
+    "site": "CGI_Careers",
+    "domain": "wd3",
+    "category": "Tech & Engineering Consulting"
+  },
+  {
+    "name": "NTT DATA",
+    "ats": "workday",
+    "tenant": "nttdata",
+    "site": "NTT_DATA_Careers",
+    "domain": "wd3",
+    "category": "Tech & Engineering Consulting"
+  },
+  {
+    "name": "EPAM Systems",
+    "ats": "workday",
+    "tenant": "epam",
+    "site": "EPAM_Careers",
+    "domain": "wd1",
+    "category": "Tech & Engineering Consulting"
+  },
+  {
+    "name": "Expleo Group",
+    "ats": "workday",
+    "tenant": "expleo",
+    "site": "Expleo_Careers",
+    "domain": "wd3",
+    "category": "Tech & Engineering Consulting"
+  },
+  {
+    "name": "Alten",
+    "ats": "workday",
+    "tenant": "alten",
+    "site": "Alten_Careers",
+    "domain": "wd3",
+    "category": "Tech & Engineering Consulting"
+  },
+  {
+    "name": "Akka Technologies",
+    "ats": "workday",
+    "tenant": "akka",
+    "site": "Akka_Careers",
+    "domain": "wd3",
+    "category": "Tech & Engineering Consulting"
+  },
+  {
+    "name": "Sopra Steria",
+    "ats": "workday",
+    "tenant": "soprasteria",
+    "site": "SopraSteria_Careers",
+    "domain": "wd3",
+    "category": "Tech & Engineering Consulting"
+  },
+  {
+    "name": "NVIDIA",
+    "ats": "workday",
+    "tenant": "nvidia",
+    "site": "NVIDIAExternalCareerSite",
+    "domain": "wd5",
+    "category": "Semiconductors & Electronics"
+  },
+  {
+    "name": "Qualcomm",
+    "ats": "workday",
+    "tenant": "qualcomm",
+    "site": "Qualcomm_Careers",
+    "domain": "wd5",
+    "category": "Semiconductors & Electronics"
+  },
+  {
+    "name": "NXP Semiconductors",
+    "ats": "workday",
+    "tenant": "nxp",
+    "site": "NXP_Careers",
+    "domain": "wd3",
+    "category": "Semiconductors & Electronics"
+  },
+  {
+    "name": "Infineon Technologies",
+    "ats": "workday",
+    "tenant": "infineon",
+    "site": "Infineon_Careers",
+    "domain": "wd3",
+    "category": "Semiconductors & Electronics"
+  },
+  {
+    "name": "Analog Devices (ADI)",
+    "ats": "workday",
+    "tenant": "adi",
+    "site": "ADI_Careers",
+    "domain": "wd1",
+    "category": "Semiconductors & Electronics"
+  },
+  {
+    "name": "Texas Instruments",
+    "ats": "workday",
+    "tenant": "ti",
+    "site": "TI_Careers",
+    "domain": "wd1",
+    "category": "Semiconductors & Electronics"
+  },
+  {
+    "name": "Broadcom",
+    "ats": "workday",
+    "tenant": "broadcom",
+    "site": "Broadcom_Careers",
+    "domain": "wd1",
+    "category": "Semiconductors & Electronics"
+  },
+  {
+    "name": "Micron Technology",
+    "ats": "workday",
+    "tenant": "micron",
+    "site": "Micron_Careers",
+    "domain": "wd1",
+    "category": "Semiconductors & Electronics"
+  },
+  {
+    "name": "Applied Materials",
+    "ats": "workday",
+    "tenant": "appliedmaterials",
+    "site": "Applied_Materials_Careers",
+    "domain": "wd1",
+    "category": "Semiconductors & Electronics"
+  },
+  {
+    "name": "ASML",
+    "ats": "workday",
+    "tenant": "asml",
+    "site": "ASML_Careers",
+    "domain": "wd3",
+    "category": "Semiconductors & Electronics"
+  },
+  {
+    "name": "Anduril Industries",
+    "ats": "greenhouse",
+    "token": "andurilindustries",
+    "category": "Defense Tech"
+  },
+  {
+    "name": "Cruise (Autonomous)",
+    "ats": "greenhouse",
+    "token": "getcruise",
+    "category": "Autonomous Driving"
+  },
+  {
+    "name": "Waymo (Alphabet)",
+    "ats": "greenhouse",
+    "token": "waymo",
+    "category": "Autonomous Driving"
+  },
+  {
+    "name": "Zoox (Amazon)",
+    "ats": "greenhouse",
+    "token": "zoox",
+    "category": "Autonomous Driving"
+  },
+  {
+    "name": "Aurora Innovation",
+    "ats": "greenhouse",
+    "token": "aurora",
+    "category": "Autonomous Driving"
+  },
+  {
+    "name": "Rivian Automotive",
+    "ats": "greenhouse",
+    "token": "rivian",
+    "category": "EV / Automotive"
+  },
+  {
+    "name": "Lucid Motors",
+    "ats": "greenhouse",
+    "token": "lucidmotors",
+    "category": "EV / Automotive"
+  },
+  {
+    "name": "Fisker",
+    "ats": "greenhouse",
+    "token": "fisker",
+    "category": "EV / Automotive"
+  },
+  {
+    "name": "Ablacon",
+    "ats": "greenhouse",
+    "token": "ablacon",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "HeartFlow",
+    "ats": "greenhouse",
+    "token": "heartflow",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "Inari Medical",
+    "ats": "greenhouse",
+    "token": "inarimedical",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "Shockwave Medical",
+    "ats": "greenhouse",
+    "token": "shockwavemedical",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "Outset Medical",
+    "ats": "greenhouse",
+    "token": "outsetmedical",
+    "category": "Medical Devices"
+  },
+  {
+    "name": "Verb Surgical",
+    "ats": "greenhouse",
+    "token": "verbsurgical",
+    "category": "Medical Robotics"
+  },
+  {
+    "name": "Palantir Technologies",
+    "ats": "lever",
+    "token": "palantir",
+    "category": "Enterprise Software"
+  },
+  {
+    "name": "Motional (Hyundai/Aptiv AV)",
+    "ats": "lever",
+    "token": "motional",
+    "category": "Autonomous Driving"
+  },
+  {
+    "name": "Nuro (Autonomous Delivery)",
+    "ats": "lever",
+    "token": "nuro",
+    "category": "Autonomous Driving"
+  },
+  {
+    "name": "Joby Aviation",
+    "ats": "lever",
+    "token": "jobyaviation",
+    "category": "Aerospace eVTOL"
+  },
+  {
+    "name": "Archer Aviation",
+    "ats": "lever",
+    "token": "archer",
+    "category": "Aerospace eVTOL"
+  },
+  {
+    "name": "Beta Technologies",
+    "ats": "lever",
+    "token": "beta",
+    "category": "Aerospace eVTOL"
+  },
+  {
+    "name": "Overair",
+    "ats": "lever",
+    "token": "overair",
+    "category": "Aerospace eVTOL"
+  },
+  {
+    "name": "Relativity Space",
+    "ats": "lever",
+    "token": "relativityspace",
+    "category": "Aerospace & Defense"
+  },
+  {
+    "name": "Planet Labs",
+    "ats": "lever",
+    "token": "planet",
+    "category": "Aerospace & Defense"
+  },
+  {
+    "name": "Rocket Lab",
+    "ats": "lever",
+    "token": "rocketlab",
+    "category": "Aerospace & Defense"
+  },
+  {
+    "name": "Astra Space",
+    "ats": "lever",
+    "token": "astra",
+    "category": "Aerospace & Defense"
+  },
+  {
+    "name": "Vicarious Surgical",
+    "ats": "lever",
+    "token": "vicarioussurgical",
+    "category": "Medical Robotics"
+  },
+  {
+    "name": "Samsara (IoT & Systems)",
+    "ats": "lever",
+    "token": "samsara",
+    "category": "Industrial IoT"
+  },
+  {
+    "name": "Bosch Group",
+    "ats": "smartrecruiters",
+    "token": "BoschGroup",
+    "category": "Automotive & Industrial"
+  },
+  {
+    "name": "Alstom Transport",
+    "ats": "smartrecruiters",
+    "token": "Alstom",
+    "category": "Transportation & Rail"
+  },
+  {
+    "name": "Volvo Cars",
+    "ats": "smartrecruiters",
+    "token": "VolvoCars",
+    "category": "Automotive OEM"
+  },
+  {
+    "name": "Colas",
+    "ats": "smartrecruiters",
+    "token": "Colas",
+    "category": "Industrial & Infrastructure"
+  },
+  {
+    "name": "SGS",
+    "ats": "smartrecruiters",
+    "token": "SGS",
+    "category": "Testing & Compliance"
+  },
+  {
+    "name": "Figma",
+    "ats": "greenhouse",
+    "token": "figma",
+    "category": "General Tech"
+  },
+  {
+    "name": "GitLab",
+    "ats": "greenhouse",
+    "token": "gitlab",
+    "category": "General Tech"
+  },
+  {
+    "name": "Brex",
+    "ats": "greenhouse",
+    "token": "brex",
+    "category": "General Tech"
+  },
+  {
+    "name": "Pinterest",
+    "ats": "greenhouse",
+    "token": "pinterest",
+    "category": "General Tech"
+  },
+  {
+    "name": "Stripe",
+    "ats": "greenhouse",
+    "token": "stripe",
+    "category": "General Tech"
+  },
+  {
+    "name": "Twilio",
+    "ats": "greenhouse",
+    "token": "twilio",
+    "category": "General Tech"
+  },
+  {
+    "name": "Canva",
+    "ats": "smartrecruiters",
+    "token": "canva",
+    "category": "General Tech"
+  },
+  {
+    "name": "AbbVie",
+    "ats": "smartrecruiters",
+    "token": "abbvie",
+    "category": "General Tech"
+  },
+  {
+    "name": "Airbnb",
+    "ats": "greenhouse",
+    "token": "airbnb",
+    "category": "General Tech"
+  },
+  {
+    "name": "Arista Networks",
+    "ats": "smartrecruiters",
+    "token": "aristanetworks",
+    "category": "General Tech"
+  },
+  {
+    "name": "Arthur J. Gallagher & Co.",
+    "ats": "smartrecruiters",
+    "token": "arthurjgallagherco",
+    "category": "General Tech"
+  },
+  {
+    "name": "AppLovin",
+    "ats": "greenhouse",
+    "token": "applovin",
+    "category": "General Tech"
+  },
+  {
+    "name": "Avery Dennison",
+    "ats": "smartrecruiters",
+    "token": "averydennison",
+    "category": "General Tech"
+  },
+  {
+    "name": "Brown & Brown",
+    "ats": "smartrecruiters",
+    "token": "brownbrown",
+    "category": "General Tech"
+  },
+  {
+    "name": "Block, Inc.",
+    "ats": "greenhouse",
+    "token": "block",
+    "category": "General Tech"
+  },
+  {
+    "name": "Camden Property Trust",
+    "ats": "smartrecruiters",
+    "token": "camdenpropertytrust",
+    "category": "General Tech"
+  },
+  {
+    "name": "Cencora",
+    "ats": "smartrecruiters",
+    "token": "cencora",
+    "category": "General Tech"
+  },
+  {
+    "name": "Carvana",
+    "ats": "greenhouse",
+    "token": "carvana",
+    "category": "General Tech"
+  },
+  {
+    "name": "Coinbase",
+    "ats": "greenhouse",
+    "token": "coinbase",
+    "category": "General Tech"
+  },
+  {
+    "name": "CoStar Group",
+    "ats": "greenhouse",
+    "token": "costar",
+    "category": "General Tech"
+  },
+  {
+    "name": "Datadog",
+    "ats": "greenhouse",
+    "token": "datadog",
+    "category": "General Tech"
+  },
+  {
+    "name": "Domino's",
+    "ats": "smartrecruiters",
+    "token": "dominos",
+    "category": "General Tech"
+  },
+  {
+    "name": "Flex Ltd.",
+    "ats": "greenhouse",
+    "token": "flex",
+    "category": "General Tech"
+  },
+  {
+    "name": "GoDaddy",
+    "ats": "greenhouse",
+    "token": "godaddy",
+    "category": "General Tech"
+  },
+  {
+    "name": "Hasbro",
+    "ats": "greenhouse",
+    "token": "hasbro",
+    "category": "General Tech"
+  },
+  {
+    "name": "Henry Schein",
+    "ats": "smartrecruiters",
+    "token": "henryschein",
+    "category": "General Tech"
+  },
+  {
+    "name": "HP Inc.",
+    "ats": "greenhouse",
+    "token": "hp",
+    "category": "General Tech"
+  },
+  {
+    "name": "Iron Mountain",
+    "ats": "smartrecruiters",
+    "token": "ironmountain",
+    "category": "General Tech"
+  },
+  {
+    "name": "Kenvue",
+    "ats": "smartrecruiters",
+    "token": "kenvue",
+    "category": "General Tech"
+  },
+  {
+    "name": "Kimberly-Clark",
+    "ats": "smartrecruiters",
+    "token": "kimberlyclark",
+    "category": "General Tech"
+  },
+  {
+    "name": "Live Nation Entertainment",
+    "ats": "smartrecruiters",
+    "token": "livenationentertainment",
+    "category": "General Tech"
+  },
+  {
+    "name": "Nasdaq, Inc.",
+    "ats": "greenhouse",
+    "token": "nasdaq",
+    "category": "General Tech"
+  },
+  {
+    "name": "MetLife",
+    "ats": "lever",
+    "token": "metlife",
+    "category": "General Tech"
+  },
+  {
+    "name": "Norwegian Cruise Line Holdings",
+    "ats": "smartrecruiters",
+    "token": "norwegiancruiseline",
+    "category": "General Tech"
+  },
+  {
+    "name": "Pentair",
+    "ats": "smartrecruiters",
+    "token": "pentair",
+    "category": "General Tech"
+  },
+  {
+    "name": "Public Storage",
+    "ats": "smartrecruiters",
+    "token": "publicstorage",
+    "category": "General Tech"
+  },
+  {
+    "name": "Reddit",
+    "ats": "greenhouse",
+    "token": "reddit",
+    "category": "General Tech"
+  },
+  {
+    "name": "ServiceNow",
+    "ats": "smartrecruiters",
+    "token": "servicenow",
+    "category": "General Tech"
+  },
+  {
+    "name": "Skydance",
+    "ats": "lever",
+    "token": "skydance",
+    "category": "General Tech"
+  },
+  {
+    "name": "Uber",
+    "ats": "smartrecruiters",
+    "token": "uber",
+    "category": "General Tech"
+  },
+  {
+    "name": "Verisign",
+    "ats": "greenhouse",
+    "token": "verisign",
+    "category": "General Tech"
+  },
+  {
+    "name": "Wabtec",
+    "ats": "smartrecruiters",
+    "token": "wabtec",
+    "category": "General Tech"
+  },
+  {
+    "name": "Western Digital",
+    "ats": "smartrecruiters",
+    "token": "westerndigital",
+    "category": "General Tech"
+  },
+  {
+    "name": "Wynn Resorts",
+    "ats": "smartrecruiters",
+    "token": "wynnresorts",
+    "category": "General Tech"
+  },
+  {
+    "name": "Anaplan",
+    "ats": "greenhouse",
+    "token": "anaplan",
+    "category": "General Tech"
+  },
+  {
+    "name": "fetchsandbox",
+    "ats": "smartrecruiters",
+    "token": "fetchsandbox",
+    "category": "General Tech"
+  },
+  {
+    "name": "Capco",
+    "ats": "greenhouse",
+    "token": "capco",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Hackajob",
+    "ats": "smartrecruiters",
+    "token": "hackajob",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "KPI Partners",
+    "ats": "smartrecruiters",
+    "token": "kpipartners",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "The It Mind Services",
+    "ats": "smartrecruiters",
+    "token": "theitmindservices",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Databricks",
+    "ats": "greenhouse",
+    "token": "databricks",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Westernacher Consulting",
+    "ats": "greenhouse",
+    "token": "westernacherconsulting",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Version 1",
+    "ats": "smartrecruiters",
+    "token": "version1",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Talent Socio",
+    "ats": "smartrecruiters",
+    "token": "talentsocio",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Kiya.ai",
+    "ats": "smartrecruiters",
+    "token": "kiyaai",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Meesho",
+    "ats": "lever",
+    "token": "meesho",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Tellius",
+    "ats": "greenhouse",
+    "token": "tellius",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Useready",
+    "ats": "smartrecruiters",
+    "token": "useready",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Fiddich Consulting",
+    "ats": "smartrecruiters",
+    "token": "fiddichconsulting",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Netradyne",
+    "ats": "greenhouse",
+    "token": "netradyne",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Inmobi",
+    "ats": "greenhouse",
+    "token": "inmobi",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Project44",
+    "ats": "greenhouse",
+    "token": "project44",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Swiggy",
+    "ats": "smartrecruiters",
+    "token": "swiggy",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Elsevier",
+    "ats": "greenhouse",
+    "token": "elsevier",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "CommerceIQ",
+    "ats": "greenhouse",
+    "token": "commerceiq",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Apex Group",
+    "ats": "greenhouse",
+    "token": "apex",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Smart",
+    "ats": "smartrecruiters",
+    "token": "smart",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Freshworks",
+    "ats": "smartrecruiters",
+    "token": "freshworks",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "ACL Digital",
+    "ats": "smartrecruiters",
+    "token": "acldigital",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Newton School",
+    "ats": "smartrecruiters",
+    "token": "newtonschool",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Wayfair",
+    "ats": "smartrecruiters",
+    "token": "wayfair",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Metropolis Technologies",
+    "ats": "greenhouse",
+    "token": "metropolis",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Mcafee",
+    "ats": "greenhouse",
+    "token": "mcafee",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Synechron",
+    "ats": "smartrecruiters",
+    "token": "synechron",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Take Two",
+    "ats": "greenhouse",
+    "token": "taketwo",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Rubrik",
+    "ats": "greenhouse",
+    "token": "rubrik",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Saint Gobain",
+    "ats": "smartrecruiters",
+    "token": "saintgobain",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Equal Experts",
+    "ats": "greenhouse",
+    "token": "equalexperts",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Azilen",
+    "ats": "smartrecruiters",
+    "token": "azilen",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Agileengine",
+    "ats": "smartrecruiters",
+    "token": "agileengine",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Oliver Wyman",
+    "ats": "lever",
+    "token": "oliverwyman",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "LogiNext",
+    "ats": "smartrecruiters",
+    "token": "loginext",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Castrol",
+    "ats": "greenhouse",
+    "token": "castrol",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "NiCE",
+    "ats": "greenhouse",
+    "token": "nice",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Cornerstone",
+    "ats": "greenhouse",
+    "token": "cornerstone",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Pattern Technologies",
+    "ats": "lever",
+    "token": "pattern",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Orcapod Consulting Services",
+    "ats": "smartrecruiters",
+    "token": "orcapodconsultingservices",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Precision Medicine Group",
+    "ats": "greenhouse",
+    "token": "precisionmedicine",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Iris Software",
+    "ats": "smartrecruiters",
+    "token": "irissoftware",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Atyeti",
+    "ats": "smartrecruiters",
+    "token": "atyeti",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Infobeans",
+    "ats": "smartrecruiters",
+    "token": "infobeans",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Sakon",
+    "ats": "lever",
+    "token": "sakon",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Tech Holding",
+    "ats": "greenhouse",
+    "token": "techholding",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Jade Global",
+    "ats": "smartrecruiters",
+    "token": "jadeglobal",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "PURVIEW",
+    "ats": "smartrecruiters",
+    "token": "purview",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Eulerity",
+    "ats": "greenhouse",
+    "token": "eulerity",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Deepintent",
+    "ats": "greenhouse",
+    "token": "deepintent",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Procdna",
+    "ats": "smartrecruiters",
+    "token": "procdna",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Affle",
+    "ats": "greenhouse",
+    "token": "affle",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "The Scholar",
+    "ats": "smartrecruiters",
+    "token": "thescholar",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Home Credit",
+    "ats": "smartrecruiters",
+    "token": "homecredit",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Tower Research Capital",
+    "ats": "greenhouse",
+    "token": "towerresearchcapital",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Cialfo Solutions",
+    "ats": "greenhouse",
+    "token": "cialfo",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "WIN Home Inspection",
+    "ats": "greenhouse",
+    "token": "winhomeinspection",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Vichara Technologies",
+    "ats": "smartrecruiters",
+    "token": "vichara",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Access Healthcare",
+    "ats": "smartrecruiters",
+    "token": "accesshealthcare",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "InfoStride",
+    "ats": "smartrecruiters",
+    "token": "infostride",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "WPP",
+    "ats": "greenhouse",
+    "token": "wpp",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "ValGenesis",
+    "ats": "lever",
+    "token": "valgenesis",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Buckman",
+    "ats": "smartrecruiters",
+    "token": "buckman",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Saxon Global",
+    "ats": "smartrecruiters",
+    "token": "saxonglobal",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Level Ai",
+    "ats": "lever",
+    "token": "levelai",
+    "category": "Indian Tech & Engineering"
+  },
+  {
+    "name": "Hackveda",
+    "ats": "smartrecruiters",
+    "token": "hackveda",
+    "category": "Indian Tech & Engineering"
+  }
+]
