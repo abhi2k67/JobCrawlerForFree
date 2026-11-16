@@ -144,3 +144,4 @@ For full instructions, troubleshooting, and advanced dataset ingestion, read the
 
 ## ⚖️ License & Disclaimer
 This project is for educational and personal career automation purposes. Ensure you comply with the terms of service of each platform you crawl.
+

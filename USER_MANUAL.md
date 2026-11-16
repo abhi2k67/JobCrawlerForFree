@@ -207,3 +207,4 @@ All indexed jobs are saved in `playwright_bot/crawler_state.json`. You can inspe
 ---
 
 *Happy Job Hunting! May this tool save you hundreds of hours of manual searching.*
+
